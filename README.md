@@ -1,6 +1,5 @@
 # 5IG_Prueba_Tecnica_DanielC
 
-# Prueba Técnica – 5IG Solutions
 
 👤 **Candidato**: Daniel Felipe Cárdenas Rivera  
 📅 **Año**: 2025
